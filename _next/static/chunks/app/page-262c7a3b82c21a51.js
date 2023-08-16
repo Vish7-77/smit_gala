@@ -1411,7 +1411,7 @@
                                     : a.name;
                                 }),
                          
-                          link: "/launches.html",
+                          link: "/next.html",
                           color:
                             null === (w = e.attributes) || void 0 === w
                               ? void 0
