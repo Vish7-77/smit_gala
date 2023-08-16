@@ -657,7 +657,7 @@
                     (0, l.jsx)(c.default, {
                       children: (0, l.jsx)("span", {
                         className: "kicker subtitle",
-                        children: "i am smit",
+                        children: "i am smit gala",
                       }),
                     }),
                     (0, l.jsx)(c.default, {
@@ -694,8 +694,8 @@
                    
                     (0, l.jsx)(d.default, {
                       as: "a",
-                      to: "/Smit gala Portfolio .pdf",
-                      text: "Learn More",
+                      to: "/smit.pdf",
+                      text: "view portfolio",
                       size: "small",
                     }),
                   ],
@@ -1220,7 +1220,7 @@
                           children: (0, l.jsx)("p", {
                             className: "large light",
                             children:
-                              "I believe in the power of a holistic approach to marketing, ",
+                              "Not just a marketer, but also your business partner 💪",
                           }),
                         }),
                         (0, l.jsxs)("div", {

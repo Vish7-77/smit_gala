@@ -669,7 +669,7 @@
                     i("", "default");
                   },
                   children: (0, O.jsxs)(ee(), {
-                    href:'https://docs.google.com/forms/d/e/1FAIpQLSfjbxju6Cug2FXMtwqOFA2l8p425vghSoAYStrQvvEJx-WLRA/viewform',
+                    href:'wa.me/918830238921',
                     children: [
                       (0, O.jsx)("span", {
                         className: (0, K.Z)(eo()["floating-cta-text"]),
