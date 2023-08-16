@@ -930,36 +930,7 @@
                       src: "/images/clients/7.png",
                       alt: "IBM",
                     }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/8.png",
-                      alt: "Ritz",
-                    }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/2.png",
-                      alt: "Seven Eleven",
-                    }),
-                
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/11.png",
-                      alt: "Stella Artois",
-                    }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/12.png",
-                      alt: "Centennial Bank",
-                    }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/13.png",
-                      alt: "Budweiser",
-                    }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/7.png",
-                      alt: "SETI Institute",
-                    }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/5.png",
-                      alt: "Walmart",
-                      className: "medium",
-                    }),
+                  
                   ],
                 }),
               }),
@@ -973,55 +944,27 @@
                   className: "client-logos-marquee",
                   children: [
                     (0, l.jsx)("img", {
-                      src: "/images/clients/3.png",
+                      src: "/images/clients/8.png",
                       alt: "Voltage",
                     }),
                     (0, l.jsx)("img", {
-                      src: "/images/clients/4.png",
+                      src: "/images/clients/6.png",
                       alt: "Crystal Bridges",
                     }),
                     (0, l.jsx)("img", {
-                      src: "/images/clients/5.png",
+                      src: "/images/clients/11.png",
                       alt: "Fit Body",
                     }),
                     (0, l.jsx)("img", {
-                      src: "/images/clients/6.png",
+                      src: "/images/clients/12.png",
                       alt: "Cars.com",
                     }),
                     (0, l.jsx)("img", {
-                      src: "/images/clients/7.png",
+                      src: "/images/clients/13.png",
                       alt: "Tyson",
                     }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/8.png",
-                      alt: "Wells Fargo",
-                    }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/2.png",
-                      alt: "Nabholz",
-                    }),
-
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/11.png",
-                      alt: "Bank OZK",
-                      className: "large",
-                    }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/12.png",
-                      alt: "GE",
-                    }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/13.png",
-                      alt: "Arkansas Farm Bureau",
-                    }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/1.png",
-                      alt: "Goodwill",
-                    }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/3.png",
-                      alt: "Vermont",
-                    }),
+                   
+                  
                   ],
                 }),
               }),

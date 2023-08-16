@@ -868,14 +868,16 @@
                     children: (0, O.jsxs)("p", {
                       className: "x-small bolder dark",
                       children: [
-                        (0, O.jsx)("span", {
-                          className: (0, K.Z)("label", "alternate", Q().label),
-                          children: "SMIT GALA",
-                        }),
                         (0, O.jsx)("a", {
+                          className: (0, K.Z)("label", "alternate", Q().label),
                           href: "tel:+918830238921",
-                          className: "dark no-decoration",
                           children: "8830238921",
+
+                        }),
+                        (0, O.jsx)("span", {
+                         
+                          className: "dark no-decoration",
+                          children: "SMIT GALA",
                         }),
                         (0, O.jsx)("br", {}),
                         "Mumbai India",
