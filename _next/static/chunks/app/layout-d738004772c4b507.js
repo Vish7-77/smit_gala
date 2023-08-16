@@ -731,7 +731,7 @@
                         "I’m not just ",
                         (0, O.jsx)("span", {
                           className: "serif",
-                          children: "rad",
+                          children: "",
                         }),
                         "a marketer,I’m a business ",
                        
@@ -748,7 +748,7 @@
                         " a marketer,I’m a business  ",
                         (0, O.jsx)("span", {
                           className: "serif",
-                          children: "rad",
+                          children: "",
                         }),
                         "growth partner!",
                       ],
@@ -853,7 +853,7 @@
                         (0, O.jsx)("br", {}),
                         "All Rights Reserved",
                         (0, O.jsx)("br", {}),
-                        "smit gala LLC.",
+                        "Smit Gala.",
                       ],
                     }),
                   }),
@@ -878,9 +878,8 @@
                           children: "8830238921",
                         }),
                         (0, O.jsx)("br", {}),
-                        "vasai mumbai",
-                        (0, O.jsx)("br", {}),
-                        "India",
+                        "Mumbai India",
+                       
                       ],
                     }),
                   }),
@@ -1083,47 +1082,11 @@
                       children: (0, t.jsx)("img", {
                         src: "/images/logo.svg",
                       }),
+                      
+                    
                     }),
                   }),
-                  (0, t.jsxs)("div", {
-                    className: (0, c.Z)("column", s()["menu-toggle-wrapper"]),
-                    children: [
-                      (0, t.jsx)(f.E.div, {
-                        initial: { opacity: 0 },
-                        animate: { opacity: r || "/launches" === _ ? 0 : 1 },
-                        exit: { opacity: 0 },
-                        children: (0, t.jsxs)(d(), {
-                          href: "/launches",
-                          className: (0, c.Z)(
-                            s()["navbar-item"],
-                            s()["projects-toggle"],
-                            "/launches" === _ && s().active
-                          ),
-                         
-                        }),
-                      }),
-                      (0, t.jsxs)("button", {
-                        type: "button",
-                        className: (0, c.Z)(
-                          s()["navbar-item"],
-                          s()["menu-toggle"],
-                          r ? s().open : ""
-                        ),
-                        onClick: () => l(!r),
-                        onMouseEnter: () => {
-                          a("", "smallCta");
-                        },
-                        onMouseLeave: () => {
-                          a("", "default");
-                        },
-                        children: [
-                          (0, t.jsx)("div", { className: s()["menu-bar"] }),
-                          (0, t.jsx)("div", { className: s()["menu-bar"] }),
-                          (0, t.jsx)("div", { className: s()["menu-bar"] }),
-                        ],
-                      }),
-                    ],
-                  }),
+                  
                 ],
               }),
               (0, t.jsx)(u.M, {

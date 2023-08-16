@@ -935,13 +935,10 @@
                       alt: "Ritz",
                     }),
                     (0, l.jsx)("img", {
-                      src: "/images/clients/9.png",
+                      src: "/images/clients/2.png",
                       alt: "Seven Eleven",
                     }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/10.png",
-                      alt: "Heifer International",
-                    }),
+                
                     (0, l.jsx)("img", {
                       src: "/images/clients/11.png",
                       alt: "Stella Artois",
@@ -955,11 +952,11 @@
                       alt: "Budweiser",
                     }),
                     (0, l.jsx)("img", {
-                      src: "/images/clients/1.png",
+                      src: "/images/clients/7.png",
                       alt: "SETI Institute",
                     }),
                     (0, l.jsx)("img", {
-                      src: "/images/clients/2.png",
+                      src: "/images/clients/5.png",
                       alt: "Walmart",
                       className: "medium",
                     }),
@@ -1000,13 +997,10 @@
                       alt: "Wells Fargo",
                     }),
                     (0, l.jsx)("img", {
-                      src: "/images/clients/9.png",
+                      src: "/images/clients/2.png",
                       alt: "Nabholz",
                     }),
-                    (0, l.jsx)("img", {
-                      src: "/images/clients/10.png",
-                      alt: "P & G",
-                    }),
+
                     (0, l.jsx)("img", {
                       src: "/images/clients/11.png",
                       alt: "Bank OZK",
@@ -1025,7 +1019,7 @@
                       alt: "Goodwill",
                     }),
                     (0, l.jsx)("img", {
-                      src: "/images/clients/2.png",
+                      src: "/images/clients/3.png",
                       alt: "Vermont",
                     }),
                   ],
