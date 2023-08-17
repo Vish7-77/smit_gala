@@ -1083,8 +1083,8 @@
                       className: s()["navbar-item"],
                       onClick: () => l(!1),
                       children: (0, t.jsx)("img", {
-                        src: "/images/logo.svg",
-                        alt: "Few",
+                        src: "/images/logo.png",
+                       
                       }),
                     }),
                   }),

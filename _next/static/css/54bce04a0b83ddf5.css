@@ -2222,15 +2222,15 @@ nav.Navbar_navbar-wrapper__WPMhc
   .Navbar_navbar__RmS0L
   .Navbar_brand-wrapper__Pj56z
   img {
-  margin: -1.25rem 0;
-  max-width: 10vw;
+  margin: -1.95rem 0;
+  max-width: 8vw;
 }
 @media screen and (max-width: 577px) {
   nav.Navbar_navbar-wrapper__WPMhc
     .Navbar_navbar__RmS0L
     .Navbar_brand-wrapper__Pj56z
     img {
-    max-width: 26vw;
+    max-width: 14vw;
   }
 
 
