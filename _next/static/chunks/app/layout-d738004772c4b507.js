@@ -869,20 +869,18 @@
                     children: (0, O.jsxs)("p", {
                       className: "x-small bolder dark",
                       children: [
-                        (0, O.jsx)("a", {
-                          className: (0, K.Z)("label", "alternate", Q().label),
-                          href: "tel:+918830238921",
-                          children: "8830238921",
-
-                        }),
                         (0, O.jsx)("span", {
-                         
-                          className: "dark no-decoration",
-                          children: "SMIT GALA",
+                          className: (0, K.Z)("label", "alternate", Q().label),
+                          children: "Smit Gala                          ",
                         }),
-                        (0, O.jsx)("br", {}),
-                        "Mumbai India",
+                        (0, O.jsx)("a", {
+                          href: "tel:+91 8830238921                          ",
+                          className: "dark no-decoration",
+                          children: "+91 8830238921                          ",
+                        }),
                        
+                        (0, O.jsx)("br", {}),
+                        "Mumbai India",
                       ],
                     }),
                   }),
