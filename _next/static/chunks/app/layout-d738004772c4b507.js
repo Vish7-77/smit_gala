@@ -839,6 +839,7 @@
                     ],
                   }),
                   (0, O.jsx)("div", {
+                    
                     className: (0, K.Z)(
                       "column",
                       "is-6-mobile",
@@ -1083,12 +1084,54 @@
                       onClick: () => l(!1),
                       children: (0, t.jsx)("img", {
                         src: "/images/logo.svg",
+                        alt: "Few",
                       }),
-                      
-                    
                     }),
                   }),
-                  
+                  (0, t.jsxs)("div", {
+                    className: (0, c.Z)("column", s()["menu-toggle-wrapper"]),
+                    children: [
+                      (0, t.jsx)(f.E.div, {
+                        initial: { opacity: 0 },
+                        animate: { opacity: r || "" === _ ? 0 : 1 },
+                        exit: { opacity: 0 },
+                        children: (0, t.jsxs)(d(), {
+                          href: "/next.html",
+                          className: (0, c.Z)(
+                            s()["navbar-item"],
+                            s()["projects-toggle"],
+                          ),
+                          children: [
+                            (0, t.jsx)("a", {
+                              href: "/next.html",
+                              children: "Services",
+                            }),
+                         
+                          ],
+                        }),
+                      }),
+                      (0, t.jsxs)("button", {
+                        type: "button",
+                        className: (0, c.Z)(
+                          s()["navbar-item"],
+                          s()["menu-toggle"],
+                          r ? s().open : ""
+                        ),
+                        onClick: () => l(!r),
+                        onMouseEnter: () => {
+                          a("", "smallCta");
+                        },
+                        onMouseLeave: () => {
+                          a("", "default");
+                        },
+                        children: [
+                          (0, t.jsx)("div", { className: s()["menu-bar"] }),
+                          (0, t.jsx)("div", { className: s()["menu-bar"] }),
+                          (0, t.jsx)("div", { className: s()["menu-bar"] }),
+                        ],
+                      }),
+                    ],
+                  }),
                 ],
               }),
               (0, t.jsx)(u.M, {
