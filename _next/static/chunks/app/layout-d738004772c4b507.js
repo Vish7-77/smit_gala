@@ -873,11 +873,15 @@
                           className: (0, K.Z)("label", "alternate", Q().label),
                           children: "Smit Gala                          ",
                         }),
-                        (0, O.jsx)("a", {
+                        
+                        "info@smitgala.com",
+                        (0, O.jsx)("br", {}),
+                        (0, O.jsx)("span", {
                           href: "tel:+91 8830238921                          ",
                           className: "dark no-decoration",
                           children: "+91 8830238921                          ",
                         }),
+                        
                         (0, O.jsx)("br", {}),
                         "Mumbai India",
                       ],
